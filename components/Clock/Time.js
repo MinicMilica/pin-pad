@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import styles from "./Time.module.css";
-import Clock from 'react-digital-clock';
+import Clock from 'react-live-clock';
+
 
 const Time = () => {
   
@@ -8,7 +9,7 @@ const Time = () => {
       <div
         className={`text-uppercase text-center ${styles.clock}`}
       >
-        <Clock  hour12={false} format={'hh-mm'} className={` ${styles.clock}`} />
+        <Clock format={'HH:mm'} ticking={true} hour12={false}  className={` ${styles.clock}`}/>
       </div>
     );
   };
