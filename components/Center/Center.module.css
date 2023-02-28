@@ -1,0 +1,65 @@
+.grayBackground {
+    background-color: #f3f3f3;
+    padding: 160px;
+  }
+.wrapper {
+  background-color: #FFFFFF;
+  height: auto;
+padding-left: 160px;
+}
+.h3{
+width: 1538px;
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 100px;
+line-height: 153px;
+color: #000000;
+padding-bottom: 80px;
+}
+
+.h1 {
+width: 1876px;
+height: 562px;
+
+font-family: 'MontBold';
+font-style: normal;
+font-weight: 600;
+font-size: 200px;
+line-height: 260px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+.padClockDiv {
+  width: 100%;
+  height: 50%;
+}
+
+.wrapperSlide {
+  background-color: #FFFFFF;
+  height: 650px;
+  padding: 0 160px 200px 160px;}
+.h4 {
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 75px;
+  color: #000000;
+  height: auto;
+  
+}
+.sliderGap {
+  gap: 50px;
+}
+.imageLeftArrow {
+  background: url(../../assets/left.svg) no-repeat center center;
+}
+.imageRightArrow {
+  background: url(../../assets/right.svg) no-repeat center center;
+}
+.exitButton {
+  position: absolute;
+right: 120px;
+top: 950px;
+}

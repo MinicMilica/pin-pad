@@ -1,0 +1,12 @@
+.clock {
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 212px;
+line-height: 271px;
+color: #000000 !important;
+}
+
+.clock div span{
+    color:#000000;
+}

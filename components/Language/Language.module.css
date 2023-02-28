@@ -1,0 +1,51 @@
+.div {
+    background: linear-gradient(90deg, #1DA4E4 0%, #7ABAAD 34.37%, #A4CA78 66.67%, #C8D924 100%);
+    position: absolute;
+width: 188px;
+height: 188px;
+top: 2430px;
+right: 0;
+cursor: pointer;
+}
+
+.secondDiv {
+    background: linear-gradient(90deg, #1DA4E4 0%, #7ABAAD 34.37%, #A4CA78 66.67%, #C8D924 100%);
+    position: absolute;
+width: 188px;
+height: 188px;
+top: 2640px;
+right: 0;
+font-style: normal;
+font-weight: 700;
+font-size: 89px;
+line-height: 150px;
+text-align: center;
+color: #FFFFFF;
+cursor: pointer;
+}
+
+.list {
+      position: absolute;
+      right: 0;
+      gap: 15px;
+      top: 2430px;
+      width: 100vw;
+      list-style: none;
+      align-items: center;   
+}
+
+.listElements {
+    background: linear-gradient(90deg, #1DA4E4 0%, #7ABAAD 34.37%, #A4CA78 66.67%, #C8D924 100%);
+  text-decoration: none;
+  cursor: pointer;
+  align-items: center;
+  text-decoration: none;
+  width: 188px;
+height: 188px;
+}
+
+.language {
+    font-size: 50px; 
+    font-weight: 600;
+    color: #fff;
+}

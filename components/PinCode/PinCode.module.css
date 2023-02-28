@@ -1,0 +1,25 @@
+.pinCodeDiv {
+    width: 100%;
+    height: 50%;
+  }
+    .pinWrapper {
+      height: auto;
+  width: 800px;
+  background-color: #f3f3f3;
+  gap: 20px;
+  margin-bottom: 50px;
+  
+  }
+  
+  .number {
+      color: #000000;
+      font-weight: 400;
+      font-size: 180px;
+      width: 94px;
+      margin: 0;
+  height: 220px;
+  }
+  
+  .borderDiv {
+      border-bottom: 5px solid #000;
+  }
